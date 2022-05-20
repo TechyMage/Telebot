@@ -3,8 +3,8 @@
 from telethon import TelegramClient, events
 from telethon.sync import TelegramClient, events
 
-api_id = 7790829
-api_hash = "b462be4430bda3a2b4a1e48093877d19"
+api_id = 77908xx
+api_hash = "b462be4430bda3a2b4a1e48093877dxx"
 phone_number = "+91xxxxxxxxxx"
 
 client = TelegramClient("kk", api_id, api_hash)
