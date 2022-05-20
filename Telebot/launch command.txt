@@ -1,0 +1,2 @@
+file='D://Telebot/anim/name.extension'  #inside .reply or any command
+cd D://telebot          python autoreply.py       #for turning on bot
