@@ -47,11 +47,11 @@ async def handler(event):
 			await event.reply(file='D://Telebot/anim/lol.mp4')
 		if msg=="wtf":
 			await event.reply(file='D://Telebot/anim/wtf.mp4')
-		if 'satya' in msg:
+		if 'cru' in msg:
 			await event.reply(file='D://Telebot/anim/shoot.mp4')
-		if 'shree' in msg:
+		if 'sh' in msg:
 			await event.reply(file='D://Telebot/anim/shoot.mp4')
-		if 'satyashree' in msg:
+		if 'crush' in msg:
 			await event.reply(file='D://Telebot/anim/shoot.mp4')
 
 
