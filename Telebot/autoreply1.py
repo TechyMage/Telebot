@@ -37,7 +37,7 @@ async def handler(event):
 	if 'crushname' in msg:
 		await event.reply(file='D://Telebot/anim/shoot.mp4')
 
-	if chat_id == -1001494152996:
+	if chat_id == -1001494152xxx:
 		trashlist = ['.','~',',','\'','"','/','!','@','#','&','-','(',')','^','%','|','<','>','*','+','[',']','{','}','`','=',':','/']
 		if (msg[0] in trashlist) and (msg[-1] in trashlist):
 			await event.reply(file='D://Telebot/anim/spam.mp4')
