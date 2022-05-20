@@ -5,7 +5,7 @@ from telethon.sync import TelegramClient, events
 
 api_id = 7790829
 api_hash = "b462be4430bda3a2b4a1e48093877d19"
-phone_number = "+916392795217"
+phone_number = "+91639279xxxx"
 
 client = TelegramClient("kk", api_id, api_hash)
 @client.on(events.NewMessage)
